@@ -4,7 +4,7 @@ import pandas as pd
 # Database connection details
 host = 'localhost'
 user = 'root'
-password = 'Quinito98-'
+password = 'your_password'
 
 def read_queries_from_file(file_path):
     with open(file_path, 'r') as file:
